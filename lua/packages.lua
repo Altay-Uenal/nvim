@@ -22,7 +22,6 @@ return require('packer').startup(function(use)
 
   use 'bfrg/vim-cpp-modern'
   use 'navarasu/onedark.nvim'
-  use 'preservim/nerdtree'
   use 'Xuyuanp/nerdtree-git-plugin'
   use 'ryanoasis/vim-devicons'
   use 'airblade/vim-gitgutter'

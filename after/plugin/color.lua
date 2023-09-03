@@ -1,9 +1,9 @@
---require('rose-pine').setup({
-    --dark_variant = 'moon',
-    --disable_background = true
---})
---vim.cmd('colorscheme rose-pine')
+--airline stuff
+vim.g.airline_right_sep = ''
+vim.g.airline_left_sep = ''
+vim.g.airline_theme = 'base16'
 
+--catppuccin stuff
 vim.g.catppuccin_flavour = "macchiato" -- latte, frappe, macchiato, mocha
 
 require("catppuccin").setup({
