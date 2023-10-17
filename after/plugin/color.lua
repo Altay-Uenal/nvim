@@ -51,5 +51,5 @@ require("gruvbox").setup({
 })
 
 -- ENABLE COLORSCHEME
-vim.cmd.colorscheme "catppuccin"
---vim.cmd.colorscheme "gruvbox"
+--vim.cmd.colorscheme "catppuccin"
+vim.cmd.colorscheme "gruvbox"
