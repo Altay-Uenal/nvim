@@ -1,0 +1,7 @@
+maybe re-add following plugins
+
+bfrg/vim-cpp-modern
+ryanoasis/vim-devicons
+voldikss/vim-floaterm
+
+vimtex if I use latex again

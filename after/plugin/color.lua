@@ -1,7 +1,7 @@
 --airline stuff
-vim.g.airline_right_sep = ''
-vim.g.airline_left_sep = ''
-vim.g.airline_theme = 'base16'
+--vim.g.airline_right_sep = ''
+--vim.g.airline_left_sep = ''
+--vim.g.airline_theme = 'base16'
 
 --catppuccin stuff
 vim.g.catppuccin_flavour = "macchiato" -- latte, frappe, macchiato, mocha
