@@ -5,3 +5,5 @@ ryanoasis/vim-devicons
 voldikss/vim-floaterm
 
 vimtex if I use latex again
+
+look into harpoon telescope stuffs
