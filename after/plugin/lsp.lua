@@ -23,6 +23,8 @@ lsp_zero.extend_lspconfig({
   capabilities = require('cmp_nvim_lsp').default_capabilities()
 })
 
+require('lspconfig').clangd.setup({})
+
 require('mason').setup({})
 require('mason-lspconfig').setup({
   handlers = {
