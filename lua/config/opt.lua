@@ -11,4 +11,5 @@ vim.opt.incsearch = true
 vim.opt.scrolloff = 8
 vim.opt.signcolumn = "yes"
 vim.opt.wrap = false
-vim.opt.colorcolumn = "115"
+vim.opt.colorcolumn = "131"
+vim.opt.cmdheight = 0
