@@ -13,3 +13,4 @@ vim.opt.signcolumn = "yes"
 vim.opt.wrap = false
 vim.opt.colorcolumn = "131"
 vim.opt.cmdheight = 0
+vim.opt.maxmempattern=5000
